@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @didasko-ma
+- 👋 Hi, I’m @didasko-ma (Henry Vermont)
 - 👀 I’m interested in online learning, specifically Open edX / Tutor
 - 🌱 I’m currently trying to conquer the challenges of edX
 
